@@ -137,7 +137,7 @@ JWSystem/
 │   │   └── EvaluationService.cs   # 评教服务
 │   ├── Program.cs                 # 程序入口
 │   ├── appsettings.json           # 系统配置文件
-│   ├── appsettings.Development.json # 用户配置文件（需手动配置）
+│   ├── appsettings.Development.json # 用户配置文件
 │   └── JWSystem.csproj            # 项目文件
 ├── create_installer.iss           # Inno Setup安装脚本
 ├── run.bat                        # Windows运行脚本

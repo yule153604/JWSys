@@ -59,9 +59,6 @@ bld/
 *.nuget.props
 *.nuget.targets
 
-# Sensitive configuration files
-appsettings.Development.json
-
 # Output directories
 [Pp]ublish/
 [Oo]utput/
